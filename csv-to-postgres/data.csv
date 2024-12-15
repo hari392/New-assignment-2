@@ -1,0 +1,7 @@
+ID,Title,Description,Assignees,Due Date,Priority,Status,Tags,Created Date,Dependencies
+AI-001,Internal Kickoff Preparation,Prepare for the internal kickoff meeting for three upcoming projects and schedule it,"Dharmesh, Arya","Monday afternoon, Dec 16 2024",Medium,Not Started,"Planning, Project Management",12-12-2024,None
+AI-002,Customer Engagement Workshop,Initiate planning for comprehensive workshop to showcase company's offerings and capabilities,"Ganesh, Arya",TBD,Medium,Not Started,"Customer Engagement, Workshop",12-12-2024,None
+AI-003,Product Packaging Completion,Complete the product packaging for supply chain finance product including documentation and self-service features,Shanmugavel,TBD,High,Not Started,"Product Development, Documentation",12-12-2024,None
+AI-004,Methodology Validation,Validate the methodology for supply chain finance product including detailed steps and team roles,Shanmugavel,TBD,High,Not Started,"Product Development, Process",12-12-2024,AI-003
+AI-005,Customer Reference Generation,Generate positive customer references and encourage sharing on industry forums and social media,Sales Team,TBD,Medium,Not Started,"Sales, Customer Engagement",12-12-2024,None
+AI-006,Partnership with Crayon,Connect with Crayon to understand offerings and leverage platform for webinars and marketing,"Ganesh, Arya",TBD,Medium,Not Started,"Partnership, Marketing",12-12-2024,None
